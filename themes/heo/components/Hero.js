@@ -86,7 +86,7 @@ function handleClickBanner(targetLink) {
     <div
       id="banners"
   
-      onClick={handleClickBanner('www.baidu.com');
+      onClick={handleClickBanner('www.baidu.com')}
 }
   
       className="hidden xl:flex xl:flex-col group h-full bg-white dark:bg-[#1e1e1e] rounded-xl border dark:border-gray-700 mb-3 relative overflow-hidden"
